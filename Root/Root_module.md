@@ -5,6 +5,6 @@ https://github.com/LSPosed/LSPosed/releases
 # AdGuardHome
 https://github.com/410154425/AdGuardHome_magisk/releases
 # 内存参数调整
-
+https://github.com/HChenX/BGAppRetention/releases
 # 小米13pro全面屏
 
