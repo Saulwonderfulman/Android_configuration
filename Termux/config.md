@@ -1,8 +1,7 @@
 # 1. 隐藏后台卡片
-
+在Activity中添加android:excludeFromRecents="true"
 # 2. 软件安装
 pkg vim yazi syncthing
-
 # 3. yazi配置
 ## 安装字体
 mkdir -p ~/.termux
