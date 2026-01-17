@@ -38,6 +38,7 @@ https://f-droid.org/zh_Hans/packages/com.termux/
 在Activity中添加android:excludeFromRecents="true"
 # 软件安装
 pkg vim yazi syncthing
+# 配置详见Linux_configuration/Server/yazi/theme.toml和yazi.toml
 ```
 
 # 清理&储存管理（sdmaid）
