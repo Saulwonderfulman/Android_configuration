@@ -32,6 +32,14 @@ https://github.com/RikkaApps/Shizuku
 https://github.com/termux/termux-app
 
 https://f-droid.org/zh_Hans/packages/com.termux/
+
+```
+# 隐藏后台卡片
+在Activity中添加android:excludeFromRecents="true"
+# 软件安装
+pkg vim yazi syncthing
+```
+
 # 清理&储存管理（sdmaid）
 https://github.com/d4rken-org/sdmaid-se
 
