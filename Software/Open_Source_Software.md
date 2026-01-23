@@ -151,7 +151,8 @@ https://f-droid.org/zh_Hans/packages/com.agateau.tinywheels.android/
 https://github.com/Swordfish90/Lemuroid
 
 https://f-droid.org/packages/com.swordfish.lemuroid/
-
+# USB摄像头（UVCAndroid）
+https://github.com/shiyinghan/UVCAndroid
 
 
 
