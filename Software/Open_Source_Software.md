@@ -45,7 +45,7 @@ pkg vim yazi syncthing
 https://github.com/d4rken-org/sdmaid-se
 
 https://f-droid.org/zh_Hans/packages/eu.darken.sdmse/
-# APP管理/冻结（AppManager）
+# APP管理/冻结/权限管理（AppManager）
 https://github.com/MuntashirAkon/AppManager
 
 https://f-droid.org/packages/io.github.muntashirakon.AppManager/
@@ -147,7 +147,10 @@ https://f-droid.org/zh_Hans/packages/org.supertuxkart.stk/
 https://github.com/agateau/pixelwheels
 
 https://f-droid.org/zh_Hans/packages/com.agateau.tinywheels.android/
+# 模拟器（Lemuroid）
+https://github.com/Swordfish90/Lemuroid
 
+https://f-droid.org/packages/com.swordfish.lemuroid/
 
 
 
